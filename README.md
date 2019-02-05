@@ -1,3 +1,3 @@
 # Leetcode solutions
 ## Easy
-- Remove Duplicates FromSorted Array
+- Remove Duplicates From Sorted Array
