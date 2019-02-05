@@ -1,3 +1,5 @@
-# Leetcode solutions
-## Easy
+image:https://travis-ci.org/Igor-Ivaniuk/leetcode.svg?branch=master["Build Status", link="https://travis-ci.org/Igor-Ivaniuk/leetcode"]
+
+== Leetcode solutions
+=== Easy
 - Remove Duplicates From Sorted Array
